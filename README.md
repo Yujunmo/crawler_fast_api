@@ -1,6 +1,7 @@
 <h1>introduction</h1>
 simple WEB CRAWLER<br>
 
+https://github.com/Yujunmo/crawler_fast_api/issues/1#issue-2422644294
 
 <h1>[ develop environment ]</h1>
 
