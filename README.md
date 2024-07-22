@@ -13,7 +13,6 @@ simple WEB CRAWLER<br>
  ㄴ template : Jinja2==3.0.0
 
 <h3>database</h3>
-<img src="https://github.com/Yujunmo/my_memo-using-fastAPI-/assets/45279586/765fb091-7c9e-431e-8dfc-1befb60e1c37">
 <br>
  ㄴ mongodb<br>
  ㄴ odm lib : odmnatic==1.0.2 <br>
